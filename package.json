@@ -1,0 +1,26 @@
+{
+  "name": "delanieschulte",
+  "version": "1.0.0",
+  "description": "Website for Delanie Schulte",
+  "main": "index.js",
+  "engines": {
+    "node": "7.4.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Schulte89/delanieschulte.git"
+  },
+  "author": "Delanie Schulte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Schulte89/delanieschulte/issues"
+  },
+  "homepage": "https://github.com/Schulte89/delanieschulte#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
